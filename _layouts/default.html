@@ -11,6 +11,14 @@
 </head>
 <body>
   <div class="container">
+    <div class="menu">
+        <nav class="menu-content">
+          {% for item in site.data.settings.menu %}
+            <font size="7"><a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>   </font>
+          {% endfor %}
+        </nav>
+    </div>
+
     <h1><a href="./">{{ site.tag_text }}</a></h1>
     {{ content }}
   </div>

@@ -1,4 +1,0 @@
-menu:
-- {name: 'About', url: 'index.html'}
-- {name: 'Projects', url: 'projects.html'}
-- {name: 'Resume', url: 'resume.html'}

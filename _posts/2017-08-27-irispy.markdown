@@ -1,0 +1,21 @@
+---
+title: "IRISPy"
+layout: post
+date: 2017-08-27 22:10
+image: https://camo.githubusercontent.com/73aa6f7bc9c3c4a869fba50f914e0ab15f89fe16/687474703a2f2f697269732e6c6d73616c2e636f6d2f696d616765732f697269735f66756c6c2e6a7067
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+category: project
+author: johndoe
+externalLink: false
+---
+
+<!-- ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png) -->
+
+IRISPy is a SunPy-affiliated package that provides the tools to read in and analyze data from the IRIS solar-observing satellite in Python. Project was done as a student developer of Google Summer of Code 2017.[repo](http://github.com/sunpy/irispy).
+
+---
+
+For more detailed information please look into this blog post. [link](https://medium.com/@ankit_b/gsoc-2017-fce66e75341)

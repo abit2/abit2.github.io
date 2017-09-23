@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-23T10:35:12+05:30</updated><id>http://localhost:4000/</id><title type="html">Ankit Baruah</title><subtitle>A blog about stuff I like and think is cool.</subtitle><entry><title type="html">IRISPy</title><link href="http://localhost:4000/irispy/" rel="alternate" type="text/html" title="IRISPy" /><published>2017-08-27T22:10:00+05:30</published><updated>2017-08-27T22:10:00+05:30</updated><id>http://localhost:4000/irispy</id><content type="html" xml:base="http://localhost:4000/irispy/">&lt;!-- ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png) --&gt;
+
+&lt;p&gt;IRISPy is a SunPy-affiliated package that provides the tools to read in and analyze data from the IRIS solar-observing satellite in Python. Project was done as a student developer of Google Summer of Code 2017.&lt;a href=&quot;http://github.com/sunpy/irispy&quot;&gt;repo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;For more detailed information please look into this blog post. &lt;a href=&quot;https://medium.com/@ankit_b/gsoc-2017-fce66e75341&quot;&gt;link&lt;/a&gt;&lt;/p&gt;</content><author><name>johndoe</name></author><category term="project" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://camo.githubusercontent.com/73aa6f7bc9c3c4a869fba50f914e0ab15f89fe16/687474703a2f2f697269732e6c6d73616c2e636f6d2f696d616765732f697269735f66756c6c2e6a7067" /></entry><entry><title type="html">NDCUBE</title><link href="http://localhost:4000/ndcube/" rel="alternate" type="text/html" title="NDCUBE" /><published>2017-08-24T22:10:00+05:30</published><updated>2017-08-24T22:10:00+05:30</updated><id>http://localhost:4000/ndcube</id><content type="html" xml:base="http://localhost:4000/ndcube/">&lt;!-- ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png) --&gt;
+
+&lt;p&gt;A base package for multi-dimensional contiguious and non-contiguious spatially aware arrays. Project was done as a student developer of Google Summer of Code 2017. &lt;a href=&quot;http://github.com/sunpy/ndcube&quot;&gt;repo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;For more detailed information please look into this blog post. &lt;a href=&quot;https://medium.com/@ankit_b/gsoc-2017-fce66e75341&quot;&gt;link&lt;/a&gt;&lt;/p&gt;</content><author><name>johndoe</name></author><category term="project" /><summary type="html"></summary></entry></feed>
